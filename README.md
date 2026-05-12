@@ -11,7 +11,7 @@ In their existing market, the sales team has classified all customers into 4 seg
 You are required to help the manager to predict the right group of the new customers.
 
 ## Neural Network Model
-<img width="766" height="839" alt="image" src="https://github.com/user-attachments/assets/0d9ab134-2629-4159-a086-25a4f34d24a6" />
+<img width="828" height="830" alt="image" src="https://github.com/user-attachments/assets/05f5086b-8689-47cb-af02-be363231bfa6" />
 
 
 
@@ -84,26 +84,24 @@ def train_model(model, train_loader, criterion, optimizer, epochs):
 ```
 
 ### Dataset Information
-<img width="1169" height="242" alt="image" src="https://github.com/user-attachments/assets/4441ba84-e83e-4456-b731-13eea068bae8" />
+<img width="1169" height="242" alt="Screenshot 2026-05-11 092943" src="https://github.com/user-attachments/assets/a75a1dbc-909a-46ac-bd4e-64eeca9c9caa" />
 
 
 
 ### OUTPUT
 
 ## Confusion Matrix
-
-<img width="616" height="522" alt="image" src="https://github.com/user-attachments/assets/0d7d4b52-91ec-48f6-a278-aa6669feea38" />
-
+<img width="616" height="522" alt="Screenshot 2026-05-11 093146" src="https://github.com/user-attachments/assets/a0d60d82-5fa8-4247-b97c-1915a9aca688" />
 
 
 
 ## Classification Report
-<img width="655" height="395" alt="image" src="https://github.com/user-attachments/assets/de4c7a70-bad0-4097-bd76-52616b914f5b" />
+<img width="655" height="395" alt="Screenshot 2026-05-11 093302" src="https://github.com/user-attachments/assets/37d5d0d3-fa31-4e6f-8b3d-007d09b480ef" />
 
 
 
 ### New Sample Data Prediction
-<img width="481" height="96" alt="image" src="https://github.com/user-attachments/assets/e7bc9d42-573c-4e8d-8c31-f511f1658a13" />
+<img width="481" height="96" alt="Screenshot 2026-05-11 093338" src="https://github.com/user-attachments/assets/1d22ab83-2c15-42da-aef1-689275cff436" />
 
 
 
